@@ -1,8 +1,6 @@
 package play;
 
 public class Calculator {
-	private double x;
-	private double y;
 	public double result;
 	private void sum(double x,double y)
 	{
